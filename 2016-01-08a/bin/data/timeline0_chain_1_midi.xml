@@ -1,0 +1,42 @@
+<keyframes>
+    <key>
+        <flag>B4 ON</flag>
+        <time>00:00:00:857</time>
+        <value>0.530555546</value>
+    </key>
+    <key>
+        <flag>B4 OFF</flag>
+        <time>00:00:02:143</time>
+        <value>0.088888884</value>
+    </key>
+    <key>
+        <flag>B4 ON</flag>
+        <time>00:00:02:144</time>
+        <value>0.327777803</value>
+    </key>
+    <key>
+        <flag>B4 OFF</flag>
+        <time>00:00:03:000</time>
+        <value>0.133333325</value>
+    </key>
+    <key>
+        <flag>B4 ON</flag>
+        <time>00:00:03:001</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>B4 OFF</flag>
+        <time>00:00:03:643</time>
+        <value>0.094444454</value>
+    </key>
+    <key>
+        <flag>B4 ON</flag>
+        <time>00:00:03:644</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>B4 OFF</flag>
+        <time>00:00:04:286</time>
+        <value>0.352777779</value>
+    </key>
+</keyframes>
