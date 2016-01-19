@@ -1,0 +1,322 @@
+<keyframes>
+    <key>
+        <flag>G2 ON</flag>
+        <time>00:00:01:000</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G2 OFF</flag>
+        <time>00:00:01:499</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G3 ON</flag>
+        <time>00:00:01:500</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G3 OFF</flag>
+        <time>00:00:01:999</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>F#3 ON</flag>
+        <time>00:00:02:000</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>F#3 OFF</flag>
+        <time>00:00:02:499</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G2 ON</flag>
+        <time>00:00:02:500</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G2 OFF</flag>
+        <time>00:00:02:999</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G3 ON</flag>
+        <time>00:00:03:000</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G3 OFF</flag>
+        <time>00:00:03:499</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G#2 ON</flag>
+        <time>00:00:03:500</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G#2 OFF</flag>
+        <time>00:00:03:999</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G2 ON</flag>
+        <time>00:00:04:000</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G2 OFF</flag>
+        <time>00:00:04:499</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G#2 ON</flag>
+        <time>00:00:04:500</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G#2 OFF</flag>
+        <time>00:00:04:999</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G2 ON</flag>
+        <time>00:00:05:000</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G2 OFF</flag>
+        <time>00:00:05:499</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G3 ON</flag>
+        <time>00:00:05:500</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G3 OFF</flag>
+        <time>00:00:05:999</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>F#3 ON</flag>
+        <time>00:00:06:000</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>F#3 OFF</flag>
+        <time>00:00:06:499</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G2 ON</flag>
+        <time>00:00:06:500</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G2 OFF</flag>
+        <time>00:00:06:999</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G3 ON</flag>
+        <time>00:00:07:000</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G3 OFF</flag>
+        <time>00:00:07:499</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G#2 ON</flag>
+        <time>00:00:07:500</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G#2 OFF</flag>
+        <time>00:00:07:999</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G2 ON</flag>
+        <time>00:00:08:000</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G2 OFF</flag>
+        <time>00:00:08:499</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G#2 ON</flag>
+        <time>00:00:08:500</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G#2 OFF</flag>
+        <time>00:00:08:999</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G2 ON</flag>
+        <time>00:00:09:000</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G2 OFF</flag>
+        <time>00:00:09:499</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G3 ON</flag>
+        <time>00:00:09:500</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G3 OFF</flag>
+        <time>00:00:09:999</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>F#3 ON</flag>
+        <time>00:00:10:000</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>F#3 OFF</flag>
+        <time>00:00:10:499</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G2 ON</flag>
+        <time>00:00:10:500</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G2 OFF</flag>
+        <time>00:00:10:999</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G3 ON</flag>
+        <time>00:00:11:000</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G3 OFF</flag>
+        <time>00:00:11:499</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G#2 ON</flag>
+        <time>00:00:11:500</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G#2 OFF</flag>
+        <time>00:00:11:999</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G2 ON</flag>
+        <time>00:00:12:000</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G2 OFF</flag>
+        <time>00:00:12:499</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G#2 ON</flag>
+        <time>00:00:12:500</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G#2 OFF</flag>
+        <time>00:00:12:999</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G2 ON</flag>
+        <time>00:00:13:000</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G2 OFF</flag>
+        <time>00:00:13:499</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G3 ON</flag>
+        <time>00:00:13:500</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G3 OFF</flag>
+        <time>00:00:13:999</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>F#3 ON</flag>
+        <time>00:00:14:000</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>F#3 OFF</flag>
+        <time>00:00:14:499</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G2 ON</flag>
+        <time>00:00:14:500</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G2 OFF</flag>
+        <time>00:00:14:999</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G3 ON</flag>
+        <time>00:00:15:000</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G3 OFF</flag>
+        <time>00:00:15:499</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G#2 ON</flag>
+        <time>00:00:15:500</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G#2 OFF</flag>
+        <time>00:00:15:999</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G2 ON</flag>
+        <time>00:00:16:000</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G2 OFF</flag>
+        <time>00:00:16:499</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G#2 ON</flag>
+        <time>00:00:16:500</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>G#2 OFF</flag>
+        <time>00:00:16:999</time>
+        <value>1.000000000</value>
+    </key>
+</keyframes>
